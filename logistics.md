@@ -28,4 +28,4 @@ So how do you draw the line between collaboration and cheating? Here's a reasona
 - _The Right to Information Rule_: To assure that all collaboration is on the level, you must always write the name(s) of your collaborators on your assignment. This also applies when two groups collaborate.
 
 
-**LLM Policy:** All assignments are to be done by students. Each assignment will detail the permissible use of LLMs during the implementation.
+**LLM Policy:** All assignments are to be done indivually by students. The code should not be written by any LLM. Each assignment will detail the permissible use of LLMs during the implementation.
