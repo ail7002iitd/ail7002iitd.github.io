@@ -13,6 +13,7 @@ description: The weekly event schedule.
 
 - [Introduction](01-intro.pdf)
 - [Asymptotic Analysis of Algorithms](02-asymptotic.pdf)
+- [C++ Syntax & Object Oriented Programming](03-oop.pdf)
 
 {% for schedule in site.schedules %}
 {{ schedule }}
