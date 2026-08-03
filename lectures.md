@@ -15,6 +15,14 @@ description: The weekly event schedule.
 - [Asymptotic Analysis of Algorithms](02-asymptotic.pdf)
 - [C++ Syntax & Object Oriented Programming](03-oop.pdf)
 
+| Start Date | End Date | Topic                                    | Required Reading                                       | Additional Resources |
+| ---------- | -------- | ---------------------------------------- | ------------------------------------------------------ | -------------------- |
+|  23 July   |  23 July | [Introduction](01-intro.pdf)                             |                            |                      |
+|  23 July   |  27 July | [Asymptotic Analysis of Algorithms](02-asymptotic.pdf)    |  GT Chapter 4.1, 4.2       |
+|  27 July   |  30 July | [C++ Syntax & Object Oriented Programming](03-oop.pdf)   |  GT Chapters 1, 2   |
+|  30 July   |  03 Aug  | [Arrays & Linked Lists](04-arraylists.pdf)   |   GT Chapters 6.1-6.3   |
+
+
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}
