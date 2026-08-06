@@ -15,10 +15,13 @@ description: The weekly event schedule.
 | ---------- | -------- | ---------------------------------------- | ------------------------------------------------------ | -------------------- |
 |  23 July   |  23 July | [Introduction](01-intro.pdf)                             |  |  |
 |  23 July   |  27 July | [Asymptotic Analysis of Algorithms](02-asymptotic.pdf)    |  GT Chapter 4.1, 4.2  |
+|     |   | [Practice Assignment 1](PracA1.pdf)    |   |
 |  27 July   |  30 July | [C++ Syntax & Object Oriented Programming](03-oop.pdf)   |  GT Chapters 1, 2   |
 |  30 July   |  03 Aug  | [Arrays & Linked Lists](04-arraylists.pdf)   |   GT Chapters 3.1-3.4   |
 |  03 Aug   |  06 Aug  | [Stacks & Amortized Analysis](05-stacks.pdf)   |   GT Chapters 5.1   |
 |  06 Aug   |  06 Aug  | [Queues](06-queues.pdf)   |   GT Chapters 5.2, 5.3   |
+|  10 Aug   |  10 Aug  | [Recursion](07-recursion.pdf)   |   GT Chapters 3.5   |
+|     |   | [Practice Assignment 2](PracA2.pdf)    |   |
 
 
 {% for schedule in site.schedules %}
