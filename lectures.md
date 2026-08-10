@@ -23,7 +23,7 @@ description: The weekly event schedule.
 |  10 Aug   |  10 Aug  | [Recursion](07-recursion.pdf)   |   GT Chapters 3.5   |
 |     |   | [Practice Assignment 2](PracA2.pdf)    |   |
 | 10 Aug    | 25 Aug   | [Programming Assignment 1](A1.pdf)    |   |
-
+|  10 Aug   |  13 Aug  | [Trees](08-trees.pdf)   |   GT Chapters 7.1, 7.2   |
 
 {% for schedule in site.schedules %}
 {{ schedule }}
