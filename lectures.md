@@ -22,6 +22,7 @@ description: The weekly event schedule.
 |  06 Aug   |  06 Aug  | [Queues](06-queues.pdf)   |   GT Chapters 5.2, 5.3   |
 |  10 Aug   |  10 Aug  | [Recursion](07-recursion.pdf)   |   GT Chapters 3.5   |
 |     |   | [Practice Assignment 2](PracA2.pdf)    |   |
+| 10 Aug    | 25 Aug   | [Programming Assignment 1](A1.pdf)    |   |
 
 
 {% for schedule in site.schedules %}
