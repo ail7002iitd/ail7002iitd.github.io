@@ -25,7 +25,7 @@ description: The weekly event schedule.
 | 10 Aug    | 25 Aug   | [Programming Assignment 1](A1.pdf)    |
 |  10 Aug   |  13 Aug  | [Trees](08-trees.pdf)   |   GT Chapters 7.1, 7.2   |
 |  13 Aug   |  17 Aug  | [Binary Search Trees](09-bst.pdf)   |   GT Chapters 7.3, 10.1   |
-|  20 Aug   |  20 Aug  | [Proof Techniques](10-proofs.pdf)   |    |
+|  20 Aug   |  20 Aug  | [Proof Techniques](10-proofs.pdf)   |  GT Chapters 4.3, 7.3.3  |
 
 {% for schedule in site.schedules %}
 {{ schedule }}
