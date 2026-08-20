@@ -26,6 +26,7 @@ description: The weekly event schedule.
 |  10 Aug   |  13 Aug  | [Trees](08-trees.pdf)   |   GT Chapters 7.1, 7.2   |
 |  13 Aug   |  17 Aug  | [Binary Search Trees](09-bst.pdf)   |   GT Chapters 7.3, 10.1   |
 |  20 Aug   |  20 Aug  | [Proof Techniques](10-proofs.pdf)   |  GT Chapters 4.3, 7.3.3  |
+|  24 Aug   |    | [AVL Trees](11-avl.pdf)   |   GT Chapters 10.2   |
 
 {% for schedule in site.schedules %}
 {{ schedule }}
