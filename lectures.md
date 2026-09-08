@@ -30,6 +30,7 @@ description: The weekly event schedule.
 |  31 Aug   |  31 Aug  | [2-4 & a-b Trees](12-24trees.pdf)   |   GT Chapters 10.4   |
 |  31 Aug   |    | [B-Trees](13-btrees.pdf)   |   GT Chapters 14.3   |
 | 31 Aug    | 22 Sep   | [Programming Assignment 2](A2.pdf)    |
+|     |   | [Practice Assignment 3](PracA3.pdf)    |   |
 
 {% for schedule in site.schedules %}
 {{ schedule }}
