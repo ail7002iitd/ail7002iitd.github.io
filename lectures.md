@@ -31,7 +31,7 @@ description: The weekly event schedule.
 |  31 Aug   |  8 Sep  | [B-Trees](13-btrees.pdf)   |   GT Chapters 14.3   |
 | 31 Aug    | 22 Sep   | [Programming Assignment 2](A2.pdf)    |
 |     |   | [Practice Assignment 3](PracA3.pdf)    |   |
-| 22 Sep | 22 Sep | [Priority Queue ADT, Heaps, Heapsort](Heaps_PriorityQueues_HeapSort.pdf) | GT Chapter 8| 
+| 22 Sep | 22 Sep | [Priority Queue ADT, Heaps, Heapsort](Heaps_PriorityQueues_HeapSort.pdf) (experimental slides generated using Claude Opus)| GT Chapter 8| 
 
 {% for schedule in site.schedules %}
 {{ schedule }}
