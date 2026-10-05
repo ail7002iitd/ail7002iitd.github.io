@@ -33,6 +33,7 @@ description: The weekly event schedule.
 |     |   | [Practice Assignment 3](PracA3.pdf)    |   |
 | 22 Sep | 22 Sep | [Priority Queue ADT, Heaps, Heapsort](Heaps_PriorityQueues_HeapSort.pdf) (experimental slides generated using Claude Opus)| GT Chapter 8| 
 | 23 Sep | 23 Sep | [Sorting](lec14-sorting.pdf) | GT Chapter 11.1--11.3 | 
+| 5 Oct | 22 Oct | [Programming Assignment 3](A3.pdf) |
 
 {% for schedule in site.schedules %}
 {{ schedule }}
