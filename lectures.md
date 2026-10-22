@@ -37,6 +37,8 @@ description: The weekly event schedule.
 | 6 Oct | 6 Oct | [Hashing](lec15-hashing.pdf) | GT Chapter 9.2 | 
 | | | | [Linear Hashing](litwin-linearhrash.pdf) |
 | 7 Oct | 7 Oct | [Skip Lists](lec16-skiplists.pdf) | GT Chapter 9.3 | 
+| 13 Oct | 13 Oct | Quiz 3 | | 
+| 14 Oct | 21 Oct | [Graphs - I](lec17-graphs) [Graphs - II](lec18-DFS.pdf) [Graphs - SSSP](lec18-dijkstra.pdf)| | 
 
 {% for schedule in site.schedules %}
 {{ schedule }}
