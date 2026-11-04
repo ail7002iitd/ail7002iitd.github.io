@@ -39,7 +39,9 @@ description: The weekly event schedule.
 | 7 Oct | 7 Oct | [Skip Lists](lec16-skiplists.pdf) | GT Chapter 9.3 | 
 | 13 Oct | 13 Oct | Quiz 3 | | 
 | 14 Oct | 21 Oct | [Graphs - I](lec17-graphs.pdf) [Graphs - II](lec18-DFS.pdf) [Graphs - SSSP](lec18-djikstra.pdf)| | 
-
+| 27 Oct | 27 Oct | [Greedy - DP](lec19-greedy-DP.pdf)| | 
+| 02 Nov | 02 Nov | [Range Queries and Segment Trees](lec20-rangequery.pdf) | | 
+| 04 Nov | 10 Nov | [Multidimensional Search]()||
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}
