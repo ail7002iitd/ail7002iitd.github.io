@@ -41,7 +41,7 @@ description: The weekly event schedule.
 | 14 Oct | 21 Oct | [Graphs - I](lec17-graphs.pdf) [Graphs - II](lec18-DFS.pdf) [Graphs - SSSP](lec18-djikstra.pdf)| | 
 | 27 Oct | 27 Oct | [Greedy - DP](lec19-greedy-DP.pdf)| | 
 | 02 Nov | 02 Nov | [Range Queries and Segment Trees](slides.pdf) | | 
-| 04 Nov | 10 Nov | [Multidimensional Search]()| |
+| 04 Nov | 10 Nov | [Multidimensional Search](lec22-multidim.pdf)| |
 
 
 {% for schedule in site.schedules %}
