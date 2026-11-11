@@ -42,7 +42,7 @@ description: The weekly event schedule.
 | 27 Oct | 27 Oct | [Greedy - DP](lec19-greedy-DP.pdf)| | 
 | 02 Nov | 02 Nov | [Range Queries and Segment Trees](slides.pdf) | | 
 | 04 Nov | 10 Nov | [Multidimensional Search](lec22-multidim.pdf)| |
-
+| 11 Nov | 11 Nov | [Greedy - Refresh](lec23-greedy-refresh.pdf) [DP - Refresh] (lec23-dp-refresh.pdf)| | 
 
 {% for schedule in site.schedules %}
 {{ schedule }}
